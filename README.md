@@ -17,7 +17,7 @@ cd opencv-dockerfile-for-arm32v7
 3. Modify Python version to your device environment in `Dockerfile.arm32v7`
 
 ```dockerfile
-ENV PYTHON_VERSION 3.9.4 # -> change it for your environment
+ENV PYTHON_VERSION 3.9.5 # -> change it for your environment
 ```
 
 4. Run docker build

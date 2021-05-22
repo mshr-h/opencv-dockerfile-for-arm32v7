@@ -1,4 +1,4 @@
-FROM balenalib/armv7hf-ubuntu:bionic-build
+FROM balenalib/raspberrypi4-64-ubuntu:latest-build
 
 MAINTAINER Masahiro Hiramori <mhg00g13@gmail.com>
 
